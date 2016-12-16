@@ -7,4 +7,5 @@ biocLite(c("GenomicFeatures","AnnotationDbi"))
 
 library(ggplot2)
 search()
+a <- 1
 
